@@ -1,0 +1,2 @@
+# ML-Problem-Statement-3-Start-Tech-Academy
+I am explaining the task that I performed in Jupyter Notebook.  Problem Statement:- As a data analysis intern, my task is to help John from STA IT services to create a linear regression model in Python to predict the CTC/Salary of new hires from the data provided.  My task is to:  1. Understand the data 2. Transform categorical variables to the numerical variables 3. Apply linear regression to predict the CTC 4. Evaluate the results of the analysis
